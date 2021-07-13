@@ -7,7 +7,7 @@
   #### CCNA PPT 크롤링 및 전처리 후 토큰화 (문제들의 챕터 분석)
 ----------
 ### 진행 과정의 도식화입니다.
-![개요](https://user-images.githubusercontent.com/72784474/125451027-01335370-5b27-49dc-bd3b-5583d30b58ab.png)
+![개요](https://user-images.githubusercontent.com/72784474/125451307-579dd0ad-9c79-41e0-8ccd-bd5d0608edf4.png)
 ----------
 ### 아래를 참고하세요
   #### Language : Python
