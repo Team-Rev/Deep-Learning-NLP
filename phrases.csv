@@ -1,0 +1,2363 @@
+routing table
+static routing
+dynamic routing
+IP packet
+best path
+prefix length
+destination IP address
+matching bits
+matching bit
+subnet mask
+IPv4 packet
+IPv6 packet
+route entry
+directly connected networks
+directly connected network
+remote networks
+remote network
+static routes
+statc route
+ip address
+dynamic routing protocols
+dynamic routing protocol
+default route
+default routes
+next hop
+last resort
+packet forwarding
+data link
+packet header
+directly connected
+detination device
+Ethernet LAN
+Ethernet frame
+MAC address
+Ethernet network
+Neighbor Discovery
+ARP table
+neighbor cache
+Layer 2
+outgoing interface
+point to point
+serial link
+high level data link control
+faster packet
+faster packets
+process switching
+fast switching
+cisco express forwarding
+control plane
+fast switching cache
+process switched
+forwarding information base
+adjacency table
+network topology
+show ip interface brief
+show running-config interface
+show interfaces
+show ip interface
+show ip route
+filtering expression
+route source
+destination network
+destionation networks
+administrative distance
+route timestamp
+exit interface
+remote network
+remote networks
+status code
+network prefix
+local route
+stub network
+stub networks
+single route
+link local address
+classful addressing architecture
+child route
+classful address
+chilce routes
+classful network address
+source code
+parent route
+directly connected
+eigrp summary route
+external bgp
+internal eigrp
+external eigrp
+internal bgp
+service provider
+outside network
+resource usage
+path predictability
+Advanced Research Projects Agency Network
+intrerior gateway protocol
+intrerior gateway protocols
+routing information
+routing domain
+autonomous system
+autonomous systems
+distance vertor
+path vector
+data structures
+data structure
+routing protocol messages
+routing protocol message
+routing source
+routing information protocol
+hop count
+open shortest path first
+Enhanced Interior Gateway Routing Protocol
+load balancing
+cost path
+up and up
+next hop router
+static host route
+static host routes
+Standard static route
+Default static route
+Floating static route
+Summary static route
+next hop route
+fully specified static route
+dual stack
+show ipv6 route static
+floating static routes
+floating static route
+primary route
+quad-zero route
+default gateway
+destination network entry
+ICMP message
+ICMP messages
+directly connected
+ARP reply
+new frame
+default route configuration
+wrong configuration
+routing problem
+routing problems
+extended pings
+extended ping
+ICMP ehco reply
+operational status
+gather information
+implement corrections
+ethernet interface
+ARP entry
+network interface card
+show ip interface brief
+show cdp neighbors detail
+single area
+multiaccess network
+OSPF packet
+faster convergence
+larger network
+link-state routing protocol
+bulid data structure
+routing algorithm
+hello packet
+Database description packet
+Link-state request packet
+Link-state update packet
+Link-state acknowledgment packet
+neighboring router
+accurate information
+ospf message
+ospf database
+Adjacency Database
+Neighbor Table
+Link state Database 
+Topology Table
+Forwarding Database
+Routing Table
+show ip ospf neighbor
+show ip ospf database
+show ip route
+Dijkstra shortest-path first
+cumulative cost
+best route
+generic link-state
+state of convergence
+link-state routing
+Link-State Advertisement
+Link-state Database
+Single-Area OSPF
+Multiarea OSPF
+backbone area
+Routers interconnecting the areas
+Area Border Router
+hierarchical-topology design
+Smaller routing tables
+Route summarization
+Reduced link-state update overhead
+multiarea OSPF
+Reduced frequency of SPF calculations
+routing update
+LSA flooding
+area boundary
+Address Families
+network layer
+routing domain
+IPv4 counterpart
+OSPF Packet
+Database Description
+Link-State Request
+Link-State Update
+Link-State Acknowledgment 
+for database synchronization
+packet type
+routing update
+neighbor adjacencies
+Designated Router
+Backup Designated Router
+multiaccess networks 
+Down state
+Init state
+Two-way state
+ExStart state
+Exchange state
+Loading state
+Full state
+Router ID
+multiaccess link
+ExStart state
+Exchange State
+Loading State
+Full State
+packet sequence number
+multicast address
+OSPF peer
+neighbor list
+initiating router
+Down to Init State
+discover neighbor
+Ethernet network
+highest priority
+synchronization state
+local LSDB
+incremental update
+multiple adjacencies
+multiple adjacency
+Extensive flooding of LSAs
+quite chaotic
+routing algorithm
+database description packet
+adjacency database
+generic link-state
+area ID
+network mask
+hello interval
+router priority
+dead interval
+flooding of LSAs
+DR fails
+Multiaccess OSPF 
+Single-Area OSPFv2
+Route Propagation
+ISP router
+router ospf process-id
+originating router
+OSPF domain
+multiaccess LAN
+physical interfaces
+loopback interface
+show ip protocols
+OSPF process
+include Router ID
+network-address wildcard-mask
+wildcard mask
+IOS version
+exact interface
+network 10.1.1.5 0.0.0.0 area
+router ospf 10
+ip ospf process-id area area-id
+Inefficient Use of Bandwidth
+Inefficient Use of Resources
+Increased Security Risk
+packet sniffing
+misdirect traffic
+passive interface
+show ip protocols
+other router
+point-to-point network 
+ip ospf network point-to-point
+loopback interface
+multiaccess OSPF
+priority value
+clear ip ospf process
+reference bandwidth
+interface bandwidth
+auto-cost reference-bandwidth
+gigabit ethernet
+fast ethernet
+cost calculation
+path selection
+default timer value
+show ip ospf neighbor
+show ip protocols
+show ip ospf
+show ip ospf interface
+process ID
+default-information originate router
+router-id
+current state
+data loss
+threat actor
+exploit network
+malware type
+network attack
+IP Service
+best practice
+cryptographic process
+protect data
+virtual machine environment
+cyber attack
+local institution
+attack tool
+Unauthorized access
+severe consequence
+take down
+critical infrastructure
+secure network
+safety of network
+commercial interest
+security term
+potential danger
+potential threat
+multiple mitigation
+attack vector
+threat actor
+Internal threat
+external threat
+competitive advantage
+civil penaltie
+Data Loss Prevention
+tactical measure
+Unencrypted Device
+Sensitive data
+Removable Media
+weak password
+corporate data
+White Hat Hackers
+Gray Hat Hackers
+Black Hat Hackers
+Script Kiddies
+Vulnerability Broker
+Cyber criminals
+State Sponsored
+zero day
+exploit code
+Syrian Electronic Army
+attack code
+Stuxnet malware
+testing tool
+Password Crackers
+Wireless Hacking Tools
+Network Scanning and Hacking Tools
+Packet Crafting Tools
+Packet Sniffers
+THC Hydra
+Rainbow Crack
+Rootkit Detector
+Fuzzers to Search Vulnerabilitie
+Forensic Tool
+Debugger
+Hacking Operating System
+Encryption Tool
+Vulnerability Exploitation Tool
+Vulnerability Scanner
+Eavesdropping Attack
+Data Modification Attack
+IP Address Spoofing Attack
+Password-Based Attacks
+Denial of Service Attack
+Man-in-the-Middle Attack
+Compromised-Key Attack
+Sniffer Attack
+computer code
+Boot sector virus
+Firmware viruses
+Macro virus
+Program viruses
+Script viruses
+partition table
+file system
+Trojan horse
+malicious code
+computer game
+Security software disabler
+sensitive data
+unauthorized file
+credit card
+key stroke
+Reconnaissance Attack
+Access Attack
+DoS Attack
+ping sweep
+port scan
+exploitation tool
+Recon attack
+DoS attack
+information query of a target
+exploitation tool
+Social Engineering Attack
+spoofing attack
+trust exploitation
+port redirection
+buffer overflow
+shoulder surfing
+dumpster diving
+sensitive information
+password attack
+critical system
+Spoofing Attack
+falsifying data
+IP spoofing
+MAC spoofing
+DHCP spoofing
+Trust exploitation
+Port redirection
+Spear phishing
+Something for Something
+Dumpster diving
+deceptive content
+Quid pro quo
+Social Engineering Toolkit
+develop strategies
+session hijacking
+ICMP echo request and echo reply
+ICMP unreachable
+ICMP mask reply
+ICMP redirects
+ICMP router discovery
+ICMP attack
+Amplification attack
+reflection attack
+Address spoofing attack
+Session hijacking
+access control list
+intrusion detection system
+ICMP echo request
+ICMP echo reply
+ICMP mask reply
+ICMP redirect
+ICMP router discovery
+target host
+Network Time Protocol
+Smurf attack
+reflection attack
+Non-blind spoofing
+Blind spoofing
+sequence-number prediction
+authorized session
+Blind spoofing
+MAC address spoofing attack
+TCP segment
+IP header
+Control Bit
+Urgent pointer field significant
+Acknowledgment field significant
+Push function
+Reset the connection
+Synchronize sequence numbers
+No more data from sender
+Reliable delivery
+Flow control
+Stateful communication
+three-way handshake
+SYN Flood Attack
+gratuitous ARP
+Passive ARP poisoning
+inject malicious data
+Domain Name Service
+resource record
+DNS open resolver attack
+DNS stealth attacks
+DNS domain shadowing attack
+DNS tunneling attack
+Fast Flux
+Double IP Flux
+Domain Generation Algorithm
+command and control
+DHCP discover message
+Wrong default gateway
+Wrong DNS server
+Wrong IP address
+AAA Server
+adaptive security appliance
+signature pattern
+Email Security Appliance
+Simple Mail Transfer Protocol
+Web Security Appliance
+Data Integrity
+Message Digest version 5
+Secure Hash Algorithm
+Origin Authentication
+hash message authentication code
+Data Confidentiality
+Data Non-Repudiation
+Advanced Encryption Standard
+public key infrastructure
+pre-shared key
+Data Encryption Algorithm
+Software-Optimized Encryption Algorithm
+Rivest ciphers
+Asymmetric algorithm
+Internet Key Exchange
+Secure Socket Layer
+Secure Shell
+Pretty Good Privacy
+symmetric algorithms
+Digital Signature Standard
+Digital Signature Algorithm
+Elliptical curve technique
+IPsec VPN
+Rivest, Shamir, and Adleman
+extended IPv4 ACL 
+flow control
+traffic type
+network traffic
+Standard ACL
+Extended ACL
+inbound ACL
+outbound ACL
+Last Octet
+address bit
+deny packet
+Numbered ACL
+Named ACL
+ip access-list
+multiple router
+destination network
+bandwidth-consuming traffic
+organizational control
+access control element
+host keyword
+any keyword
+VTY Port
+Number range
+ip access-list standard
+no ip access-group
+show access-list
+Named Standard ACL
+show access-lists
+clear access-list counters
+vty line
+remote access
+Numbered Extended ACL
+Named Extended ACL
+port number
+private network
+numbered extended ACL
+named extended ACL
+numbered standard ACL
+named standard ACL
+ip access-list standard
+no ip access-list standard
+ip access-list extended
+ip access-list
+ip access-group
+show access-lists
+clear access-list counters
+access-class
+established
+static NAT
+dynamic NAT
+public address
+local network
+private addresses to public addresses
+conserve public IPv4
+stub network
+routable address
+web server
+global address
+Inside local address
+Inside global address
+Outside local address
+Outside global address
+Port Address Translation
+source port
+unique Inside Global address
+single unique Inside Global
+ICMPv4 message
+port level
+internal network
+addressing scheme
+tunneling protocol
+stateless protocol
+external device
+ip nat inside source static
+ip nat inside
+ip nat outside
+show ip nat translations
+active session
+NAT table
+show ip nat statistics
+clear ip nat statistics
+automatically map
+ip nat inside source list
+first packet
+ip nat translation timeout
+ip nat inside source
+unique local addresses
+RFC 1918
+long-term strategy
+network address translation
+spanning tree protocol
+spanning tree algorithm
+spanning tree instance
+spanning tree
+single path
+single point
+mac address table
+mac address
+broadcast frames
+broadcast frame
+broadcast storm
+broadcast storms
+the broadcast domain
+time to live
+high number
+end device
+end devices
+ipv6 packets
+ipv6 packet
+unicast frames
+unicast frame
+redundant network
+cisco switches
+cisco switche	
+digital equipment 
+physical paths
+necessary ports
+necessary port
+root ports
+root port
+root bridges
+root bridge
+designated ports
+designated port
+alternate ports
+alternate port
+Bridge Priority
+default priority value
+Extended System ID
+broadcast domain participate
+switch boots
+switch boot
+Root ID
+same priority
+lower priority
+internal root path cost
+full topology
+multiple VLANs
+BPDU guard
+BPDU filter
+root guard
+loop guard
+legacy devices
+single router
+access layer
+core layer
+Per-VLAN Spanning Tree 
+Rapid Spanning Tree Protocol 
+Multiple Spanning Tree Protocol
+Multiple Instance STP 
+single link
+Multiple links 
+switching loops
+switching loop
+multiple physical Ethernet links
+multiple physical Ethernet link
+single logical link
+individual port
+Load balancing 
+Fast Ethernet 
+Gigabit Ethernet 
+EtherChannel links
+EtherChannel link
+trunking EtherChannel
+individual interface
+individual interfaces
+access mode
+trunk mode
+on a routed port
+several interfaces 
+port channel interface
+Port Channel
+trunking mode
+duplex mode
+link aggregation technology
+Assigned ports 
+Link Aggregation
+Port Aggregation Protocol 
+Link Aggregation Control Protocol 
+IPv4 addresses 
+DHCP server 
+DHCP Relay
+DHCP Client
+DHCPv4 server
+DHCPv4 pool 
+DHCPv4 clients
+DHCPv4 client
+DHCPv4 messages 
+DHCPv4 broadcasts 
+DHCPv4 relay agent
+SOHO location
+single address 
+default gateway 
+DNS suffix
+subnet mask
+DNS server address 
+duplicate IP addresses
+complex hierarchical network
+enterprise server
+broadcast messages
+NetBIOS name service
+NetBIOS datagram service
+Cisco IOS router 
+ip address dhcp interface 
+ip address dhcp 
+show ip interface g0/1 
+Dynamic Host Configuration Protocol v4 
+IPv6 global unicast address 
+IPv6 GUA address
+IPv6 link-local address 
+network segment 
+Zone ID 
+Scope ID 
+stateful services
+stateful methods
+ICMPv6 RA messages 
+Stateless Address 
+DHCPv6 server
+stateless service 
+link-local addresses
+Link-local IPv6 address 
+IPv6 all-nodes group 
+IPv6 multicast group 
+IPv6 all-routers group 
+show ipv6 interface 
+Interface ID
+IPv6 all-routers multicast address 
+64-bit IPv6 subnet information 
+64-bit interface identifier 
+64-bit interface ID
+client operating system
+48-bit MAC address 
+hex value 
+Ethernet MAC address
+DHCPv6 SOLICIT message
+ADVERTISE message
+REPLY message
+UDP destination port 
+ipv6 nd other-config-flag 
+no ipv6 nd other-config-flag 
+DHCPv6 method
+ipv6 nd managed-config-flag 
+smaller networks
+separate devices 
+DHCPv6 Relay Agent 
+ipv6 unicast-routing 
+ipv6 dhcp pool 
+domain-name name 
+ipv6 dhcp server
+ipv6 enable 
+ipv6 address autoconfig
+show ipv6 interface brief 
+show ipv6 dhcp interface g0/0/1 
+stateful DHCP server 
+show ipv6 dhcp pool 
+show ipv6 dhcp binding 
+link-local address 
+Router Advertisement
+Stateless Address Autoconfiguration
+Router Solicitation 
+Duplicate Address Detection 
+Neighbor Solicitation 
+Neighbor Advertisement
+Internet Engineering Task Force 
+first hop redundancy protocols
+single default gateway
+alternate default gateways 
+single point
+virtual router
+single router 
+single virtual router
+virtual router group
+active router 
+Hello messages 
+forwarding router
+a first-hop IPv4 device
+routing packet
+Hot Standby Router Protocol 
+Virtual Router Redundancy Protocol version 2 
+Gateway Load Balancing Protocol 
+ICMP Router Discovery Protocol 
+virtual MAC address 
+Multiple first-hop routers 
+single virtual first-hop IPv6 router 
+the highest HSRP priority 
+standby priority 
+standby preempt 
+re-election process
+higher IPv4 address 
+hello timer
+Router Redundancy
+Endpoint Security
+Access Control
+Layer 2 Security Threats
+MAC Address Table Attack
+LAN Attacks
+Distributed Denial of Service
+Data Breach 
+enterprise networks
+Virtual Private Network 
+Next-Generation Firewall 
+next-generation intrusion prevention system 
+advanced malware protection
+Network Access Control 
+Identity Services Engine 
+host-based intrusion prevention systems
+email security appliance 
+web security appliance 
+Simple Mail Transfer Protocol 
+worldwide database monitoring system
+organizations address 
+malware protection
+application visibility 
+malware scanning
+URL categorization
+Web application filtering
+local database method 
+primary framework
+Local AAA Authentication
+Authentication, Authorization, and Accounting
+port-based access control 
+authentication protocol
+wireless devices
+authentication server
+wireless access point
+OSI reference model 
+seven layers 
+each layer 
+administrative control 
+single organization
+MAC Table Attacks
+VLAN Attacks
+DHCP Attacks
+ARP Attacks
+Address Spoofing Attacks
+STP Attacks
+MAC address flooding attacks
+VLAN hopping 
+VLAN double-tagging attacks
+DHCP starvation
+ARP spoofing
+ARP poisoning attacks
+IP address spoofing attacks
+Spanning Tree Protocol manipulation attacks
+Port Security
+Dynamic ARP Inspection 
+IP Source Guard 
+Secure Copy Protocol 
+Secure Socket Layer
+Transport Layer Security 
+MAC Address Table Flooding
+local switch
+port security
+VLAN Hopping Attack
+VLAN Double-Tagging Attack
+DHCP Starvation Attack
+DHCP Spoofing Attack
+Dynamic Trunking Protocol
+native VLAN
+VLAN Attack Mitigation 
+trunk security guidelines
+DHCP Messages
+IP configuration information 
+ARP Requests 
+bridge protocol data units 
+Cisco Discovery Protocol 
+no cdp run 
+cdp run 
+no cdp enable 
+cdp enable 
+host-based intrusion prevention systems 
+Next-Generation IPS 
+interface range 
+source MAC addresses 
+switchport port-security 
+trunk ports
+switchport mode access 
+switchport port-security aging 
+show port-security interface 
+show port-security address 
+violation mode
+error-disabled state
+maximum number
+Manually Configured
+Dynamically Learned
+Dynamically Learned – Sticky
+dynamic secure addresses 
+secure MAC addresses 
+syslog message
+sufficient number 
+security violation 
+VLAN hopping attack 
+Spoofing DTP messages 
+switchport mode 
+switchport mode trunk 
+switchport nonegotiate 
+switchport trunk native vlan
+Denial of Service 
+DHCP starvation attacks 
+source Ethernet address
+DHCP snooping 
+ip dhcp snooping 
+ip dhcp snooping trust 
+ip dhcp snooping limit rate 
+show ip dhcp snooping
+show ip dhcp snooping binding 
+Dynamic ARP Inspection
+Destination MAC
+Source MAC 
+IP address 
+ip arp inspection validate 
+global configuration command
+Ethernet header
+show spanning-tree summary 
+spanning-tree interface 
+shut down 
+global command
+spanning-tree bpduguard enable
+spanning-tree portfast bpduguard default 
+Wireless LAN 
+Wireless MAN 
+Wireless WAN
+wireless devices
+Wireless Router
+Internet Port
+smart phones
+Wireless Personal-Area Network 
+global communication
+Bluetooth Low Energy 
+Bluetooth Basic Rate
+Enhanced Rate 
+Worldwide Interoperability for Microwave Access
+Cellular Broadband 
+Satellite Broadband 
+Global System of Mobile 
+Code Division Multiple Access 
+High-Efficiency Wireless 
+International Telecommunication Union 
+Institute of Electrical and Electronics Engineers 
+Wi-Fi Alliance 
+metropolitan area networks 
+Internet Port
+Access point 
+Autonomous APs 
+Controller-based APs 
+lightweight APs 
+LWAN controller 
+Multiple Input Multiple Output
+Basic Service Set 
+Extended Service Set 
+Carrier Sense Multiple Access Collision Avoidance 
+Active Delivery Mode
+ready to send 
+clear to send 
+Network mode 
+Security mode 
+Passive mode 
+Active mode 
+Control and Provisioning of Wireless Access Points
+Media Access Control 
+DTLS Encryption
+Datagram Transport Layer Security
+individual APs 
+Connected mode 
+Standalone mode
+Direct-Sequence Spread Spectrum 
+Frequency-Hopping Spread Spectrum 
+Orthogonal Frequency-Division Multiplexing 
+multiple channels 
+multiple APs 
+malicious attacks
+passwords secure
+personal network hotspot 
+Encryption Systems 
+Open system authentication
+Shared key authentication
+Wired Equivalent Privacy 
+Rivest Cipher 4 
+Temporal Key Integrity Protocol 
+Advanced Encryption Standard 
+Protected Management Frames 
+pre-shared key 
+pre-shared password
+Remote Authentication Dial-In User Service
+Extensible Authentication Protocol 
+RADIUS server IP address
+UDP port numbers 
+Shared key 
+Simultaneous Authentication of Equals 
+Opportunistic Wireless Encryption
+Device Provisioning Protocol
+Name Address Translation 
+quality of service 
+default administrative password
+wireless mesh network 
+Lightweight Access Point Protocol
+WLAN controller 
+Network Summary 
+virtual interfaces 
+VLAN interfaces
+Security tab
+wireless LAN controller
+SNMP traps 
+external server
+Simple Network Management Protocol 
+Trap Receivers
+RADIUS Authentication Servers 
+show ip interface brief 
+physical data ports 
+interface address
+Advanced Encryption System
+popup message
+wireless LAN controller 
+WPA2-Enterprise
+connectivity issues
+troubleshooting methodology 
+ipconfig command
+wired network
+wireless clients 
+dual-band routers 
+WLC-based network
+WPA2-Enterprise security
+small branch offices
+stp operation
+ethernet network
+ethernet lans
+ethernet lan
+ethernet frames
+ethernet frame
+layer 2 topology
+layer 2 loop
+layer 2 broadcasts
+layer 2 broadcast
+layer 2 multicasts
+layer 2 multicast
+show interfaces port-channel 
+show etherchannel summary 
+show etherchannel port-channel 
+show interfaces etherchannel
+show ip dhcp server statistics 
+show ip dhcp binding
+show running-config
+interface range interface
+DHCP Discover 
+DHCP Offer 
+DHCP Request 
+DHCP Acknowledgment 
+no service dhcp 
+service dhcp 
+ip helper-address 
+broadcast requests
+authentication, authorization and accounting 
+valid MAC addresses 
+limited number of MAC addresses
+IP-to-MAC binding
+CAPWAP tunnel
+CAPWAP functions
+Interception of Data
+Wireless Intruders
+Rogue APs
+DHCP scope
+split-the-traffic approach
+ip addressing
+default gateway
+network switch
+end devices
+end device
+graphical icons
+graphical icon
+less knowledge of the underlying command structure
+network devices
+network device
+virtual interface
+cli connection
+user authentication
+Terminal emulation program
+basic monitoring commands
+basic monitoring command
+Configuration Mode 
+Subconfiguration Modes
+Subconfiguration Mode
+Global Configuration Mode
+Line Configuration Mode
+Interface Configuration Mode
+router interface
+Privilege EXEC Mode
+Privileged EXEC Mode
+user EXEC mode
+Subconfiguration Modes
+configure terminal
+ip protocols
+Boldface text
+Italic text
+destination device
+particular commands
+Left Arrow 
+Right Arrow 
+Up Arrow 
+command line 
+Command shortening
+Serial Console Port
+Serial Console
+Console Port
+Console Cable
+Basic Device Settings
+naming devices
+no hostname
+networking devices 
+administrative access 
+common words 
+remote access 
+banner message 
+unauthorized personnel 
+banner motd 
+delimiting character
+security changes
+configuration file 
+Random Access Memory 
+running configuration 
+startup configuration 
+running config 
+All session output 
+show running-config 
+show startup-config 
+privileged EXEC prompt
+IP addresses 
+IPv4 address 
+decimal notation 
+decimal numbers 
+subnet mask 
+default gateway address 
+remote networks
+remote network
+IPv6 addresses
+Network communications 
+Network communication
+twisted-pair copper cables
+fiber-optic cables
+coaxial cables
+network media
+Dynamic Host Configuration Protocol 
+Control Panel 
+Network Sharing Center 
+Change adapter settings 
+Local Area Connection Properties
+Internet Protocol Version 4
+Obtain an IP address automatically 
+Obtain DNS server address automatically
+no shutdown 
+network protocols 
+protocol suite
+Standards Organizations
+Reference Models
+Data Encapsulation
+Data Access
+local hosts 
+local resources 
+Common language 
+acknowledgment requirements
+Message encoding
+Message formatting and encapsulation
+Message size
+Message timing
+Message delivery options
+Message formats 
+electrical impulses
+destination host 
+appropriate format 
+Flow Control 
+Response Timeout 
+Access method 
+data transmission 
+one to one 
+one to many
+one to all
+data integrity
+data encryption
+Service Discovery
+Error Detection
+Application Interface
+Ensures data 
+Hypertext Transfer Protocol 
+Transmission Control Protocol 
+individual conversations
+Local Area Network
+communication function
+Higher Layers
+Lower Layers
+upper layers
+Internet Protocol Suite 
+Open Systems Interconnection 
+International Organization for Standardization 
+International Telecommunications Union 
+AppleTalk
+Novell NetWare
+internet layers
+network access layer 
+wireless LAN
+Internet Society 
+Internet Architecture Board 
+Internet Engineering Task Force 
+Internet Research Task Force 
+Internet Corporation for Assigned Names and Numbers 
+domain names
+Internet Assigned Numbers Authority 
+domain name management
+Institute of Electrical and Electronics Engineers 
+Electronic Industries Alliance
+Telecommunications Industry Association 
+International Telecommunications Union-Telecommunication Standardization Sector 
+Internet Protocol Television 
+digital subscriber line 
+Open System Interconnection 
+physical connections
+physical medium
+Simulation mode
+multiple streams 
+segmented data 
+Segmenting messages 
+Increases speed 
+Increase speed 
+Increases efficiency 
+Increase efficiency 
+Sequencing messages 
+numbering the segments 
+individual segments
+Protocol Data Units
+Protocol Data Unit
+Data Stream
+Bit Stream
+Network layer 
+data link 
+network layers 
+Data link layer 
+Logical Address
+Source IP address 
+Destination IP address 
+Host portion 
+data link frame 
+MAC address
+Source MAC address 
+Destination MAC address 
+network portion
+Layer 3
+Layer 2
+router address
+remote locations
+routing process 
+hop to hop
+local addressing
+local address
+L3 addressing 
+L3 IP addressing
+L2 MAC addressing
+Physical Layer
+copper cabling
+UTP Cabling
+Fiber-Optic Cabling
+Wireless Media
+Network Interface Card 
+Data Link Layer 
+local media
+Physical Components
+hardware devices
+cable materials
+predictable patterns
+Digital bandwidth 
+Physical media 
+laws of physics 
+Bits per second
+Kilobits per second
+Megabits per second
+Gigabits per second
+Terabits per second
+Bandwidth Terminology
+including delays
+electrical signals 
+data signals 
+Electromagnetic Interference 
+Radio Frequency Interference 
+cable length limits
+Unshielded Twisted Pair 
+physical damage
+noise protection 
+Key Characteristics 
+Coaxial Cable
+Outer cable
+metallic foil
+flexible plastic insulation
+copper conductor 
+Cable Types
+Cable Lengths
+Cable Termination
+Testing Methods
+Category 3
+Category 5 and 5e
+Category 6
+RJ-45 Connector
+Poorly terminated UTP cable
+Properly terminated UTP cable
+RJ-45 Socket
+Straight-through
+Single-Mode Fiber
+Multimode Fiber
+Enterprise Networks 
+Fiber-to-the-Home
+Long-Haul Networks 
+Submarine Cable Networks 
+Lucent Connector 
+Simplex Connectors
+Subscriber Connector 
+Duplex Multimode LC Connectors
+SC-SC MM Patch Cord
+LC-LC SM Patch Cord
+ST-LC MM Patch Cord
+ST-SC SM Patch Cord
+electromagnetic signals 
+binary digits 
+microwave frequencies
+Wireless connection numbers
+Coverage area 
+Shared medium 
+Wireless Personal Area network 
+Wireless LAN 
+point-to-multipoint topology 
+Wireless Access Point 
+Wireless NIC Adapters 
+wireless signals 
+System Tray Network Icons
+Binary Number System
+Binary numbering system 
+network equipment 
+binary addressing 
+Decimal Numbering Systems
+binary positional notation system 
+Hexadecimal Number System
+base sixteen numbering system
+IPv6 addresses
+single hexadecimal digit 
+access control 
+Data Link Layer
+Data Link Frame
+Layer 3 packets 
+Layer 2 Frames
+error detection 
+Logical Link Control 
+Media Access Control 
+data encapsulation
+encapsulated packet
+network segment
+Institute for Electrical and Electronic Engineers 
+International Telecommunications Union 
+International Organizations for Standardization 
+American National Standards Institute 
+Physical topology
+Logical topology 
+Hub and spoke 
+star topology 
+Legacy Token Ring technologies
+Legacy Token Ring technology
+Half-duplex communication
+Full-duplex communication
+Contention-based access
+Controlled access
+Carrier sense multiple access with collision detection
+Carrier sense multiple access with collision avoidance 
+legacy bus-topology Ethernet
+Token Ring 
+legacy networks
+Contention-Based Access 
+legacy Ethernet LAN
+collision detection
+collision avoidance 
+High-Level Data Link Control
+MAC address table 
+LLC Sublayer
+MAC Sublayer
+media access control
+Ethernet frame 
+Ethernet Addressing 
+Ethernet Error detection 
+Ethernet NIC 
+frame check sequence 
+preamble field 
+collision fragment
+runt frame
+baby giant frames
+Fast Ethernet 
+Gigabit Ethernet 
+organizationally unique identifier 
+Source MAC address 
+Destination MAC address
+physical MAC address 
+Unicast MAC Address
+Address Resolution Protocol 
+Neighbor Discovery 
+Broadcast MAC Address
+broadcast packet
+broadcast domain
+Multicast MAC Address
+multicast frame 
+multicast group
+multicast packet 
+Spanning Tree Protocol 
+multicast snooping
+host group
+multicast IP address 
+Store-and-forward switching 
+Cut-through switching 
+quality of service 
+voice over IP 
+Fast-forward switching 
+Fragment-free switching 
+error checking 
+Port-based memory
+Shared memory
+autonegotiation process 
+Best practice 
+Auto-MDIX
+automatic medium-dependent interface crossover
+mdix auto 
+IP protocols 
+Network Layer Characteristics
+Routing Table
+IP version 4 
+IP version 6 
+transport layer
+Best Effort
+Media Independent
+Maximum Transmission Unit 
+Header Checksum
+Time to Live 
+Internet Engineering Task Force
+Increased address space 
+Improved packet handling 
+Eliminates the need for NAT 
+Fragment Offset
+Traffic Class
+Flow Label
+Payload Length
+Hop Limit
+extension headers 
+Host Forwarding Decision
+routing table
+Local Host
+Remote Host
+local router
+Local traffic 
+static route 
+netstat  -r
+Directly Connected 
+Default Route 
+routing protocol
+non-redundant networks
+dynamic routing protocol 
+Dynamic Routing
+show ip route 
+Layer 2 physical address 
+Layer 3 logical address 
+ARP table 
+show ip arp
+ARP Spoofing
+ARP Broadcasting 
+ARP poisoning attack
+ARP reply
+ARP Request
+Router discovery
+Address resolution
+privileged EXEC mode
+enable secret 
+user EXEC mode
+line console 
+line vty 
+service password encryption
+banner motd 
+show ip interface brief 
+show ipv6 interface brief
+show ip route
+show ipv6 route
+show interfaces
+show ip interfaces
+show ipv6 interfaces
+ip default-gateway 
+Inter-VLAN Routing
+switched virtual interfaces
+trunk links
+access port
+trunking port
+encapsulation dot1q
+show ip route
+show ip interface brief
+show interfaces
+show interfaces trunk
+interface vlan
+SVI VLAN interfaces
+ip routing
+Layer 3 Switch
+no switchport
+local area networks
+wide area networks
+Campus Area Network
+metropolitan area network
+Virtual Private Networks
+private WAN
+public WAN
+WAN Topologies
+Fully Meshed
+Partially Meshed 
+Point to Point
+Hub and Spoke
+Dual homed
+bandwidth speeds
+Layer 2
+hub routers
+Spoke router
+load balancing
+virtual circuits
+service level agreement
+wireless router
+Synchronous Digital Hierarchy
+Synchronous Optical Networking
+Dense Wavelength Division Multiplexing
+Ethernet WAN
+Multiprotocol Label Switching
+Point-to-Point Protocol
+High-Level Data Link Control
+Frame Relay
+Data Terminal Equipment
+Data Communications Equipment
+Customer Premises Equipment
+Demarcation Point
+Local Loop
+Central office
+Toll network
+Backhaul network
+Backbone network
+Optical Converter
+DSL Modem
+Cable Modem
+Voiceband Modem
+Access Point
+WAN Core devices
+Serial Communication
+virtual connection
+public switched telephone network
+Integrated Services Digital Network
+Ethernet WAN
+Multiprotocol Label Switching
+Frame Relay
+Asynchronous Transfer Mode
+optical fiber
+leased lines
+Limited flexibility
+Public Service Telephone Network
+Frame Relay
+non-broadcast multi-access
+data-link connection identifier
+Asynchronous Transfer Mode
+Dedicated broadband
+Internet-based broadband
+Metropolitan Ethernet
+Ethernet over MPLS
+Virtual Private LAN Service
+Digital Subscriber Line
+DSL access multiplexer
+Host with PPoE Client
+Router PPPoE Client
+coaxial cable
+Cable Modem Termination System
+Fiber to the Home
+Fiber to the Building
+Fiber to the Node/Neighborhood
+Municipal Wi-Fi
+Satellite Internet
+Cost savings
+remote access connectivity
+network traffic
+Virtual Private Networks
+Cost Savings
+Internet Protocol Security
+Secure Sockets Layer
+Remote Access VPNs
+VPN gateways
+Enterprise VPNs
+Service Provider VPNs
+Clientless VPN connection
+Client-based VPN connection
+digital certificates
+Generic Routing Encapsulation
+Passenger protocol
+Carrier protocol
+Transport protocol
+Dynamic Multipoint VPNs
+Virtual Tunnel Interface
+Internet Key Exchange
+encryption algorithms
+secure key exchange
+Hashed Message Authentication Code
+Message-Digest 5
+shared-secret key
+Secure Hash Algorithm
+Pre-shared key
+Quality of Service
+Prioritizing Traffic
+bits per second
+Packet Loss
+Real-Time Protocol
+Voice over IP
+digital signal processor
+Visual Networking Index
+Real-Time Streaming Protocol
+Quality of Experience
+Weighted Fair Queuing
+Class Based Weighted Fair Queuing
+Low Latency Queuing
+First in First Out
+Integrated services
+Differentiated services
+Best-effort model
+Resource Reservation Protocol
+weighted random early detection
+IP header
+VLAN tagging
+source MAC address field
+Tag Control Information
+Class of Service
+Type of Service
+Expedited Forwarding
+Assured Forwarding
+Trust Boundaries
+Class Selector Bits
+customer information rate
+show cdp
+no cdp enable
+cdp enable
+cdp run
+no cdp run
+show cdp interface
+show cdp neighbors
+show cdp neighbors detail
+Link Layer Discovery Protocol
+Cisco Discovery Protocol
+lldp run
+no lldp run
+show lldp
+show lldp neighbors
+show lldp neighbors detail
+Network Time Protocol
+show clock
+ntp server
+show clock detail
+show ntp associations
+show ntp status
+SNMP manager
+SNMP agents
+Community Strings
+MIB Object ID
+object ID 
+Logging buffer
+Syslog server
+Severity Name
+Severity Level
+Syslog Facilities
+SYS operating system
+OSPF protocol
+IP security
+service timestamps log datetime
+show file systems
+Universal Serial Bus
+copy run usbflash0
+boot system
+Management Information Base
+Simple Network Management Protocol
+Hierarchical Networks
+Scalable Networks
+Switch Hardware
+Router Hardware
+Borderless Switched Networks
+network architecture
+wireless access
+Access Layer
+Distribution Layer
+Core Layer
+Scalable Routing protocol
+Multiple Links
+Spanning Tree Protocol
+logical Layer 2 loops
+Failure Domain
+access point
+Open Shortest Path First
+link-state routing protocol
+Forwarding Rates
+Port Density
+Power over Ethernet
+Multilayer switches
+application-specific integrated circuits
+Port speed
+Frame buffers
+Network Convergence System
+Rack unit
+Network Troubleshooting
+Network Topology Diagrams
+Physical Topology
+Logical Topology
+Network Baseline
+troubleshooting process
+Protocol Analyzers
+Digital Multimeters
+Cable Testers
+Cable Analyzers
+Portable Network Analyzers
+Cisco Prime NAM
+syslog server
+Define the problem
+Gather information
+Analyze information
+Eliminate possible causes
+Propose hypothesis
+Test hypothesis
+Solve the problem
+Network management system
+Cloud Computing
+Network Virtualization
+Virtual Network Infrastructure
+Software-Defined Networking
+Software as a Service
+Platform as a Service
+Infrastructure as a Service
+Public clouds
+Private clouds
+Hybrid clouds
+Community clouds
+Data center
+Server Virtualization
+Abstraction Layers
+Unified Computing System
+multivendor equipment
+virtual routing and forwarding
+Network Programming
+Control plane
+Data plane
+centralized controller
+management plane
+Secure Shell
+Trivial File Transfer Protocol
+Secure Hypertext Transfer Protocol
+Cisco Application Centric Infrastructure
+Flow Table
+Group Table
+Meter Table
+Application Centric Infrastructure
+Application Network Profile
+Application Policy Infrastructure Controller
+Spine-Leaf Topology
+Data Formats
+Hypertext Markup Language
+JavaScript Object Notation
+eXtensible Markup Language
+Ain’t Markup Language
+key/value pairs
+square brackets
+API request
+API response
+Open API
+Public API
+Partner API
+Internal API
+Private API
+Simple Object Access Protocol
+Representational State Transfer
+eXtensible Markup Language-Remote Procedure Call
+JavaScript Object Notation-Remote Procedure Call
+Uniform Resource Name
+Uniform Resource Locator
+Path and file name
+API Server
+Developer Web Site
+network management station
+Digital Network Architecture
+Uniform Resource Identifier
+Uniform Resource Name
+Uniform Resource Locator
+IPv4 Addressing
+IPv4 subnetting
+subnet mask
+Network Segmentation
+IPv4 address
+IPv4 addresses
+prefix length
+subnet mask address
+Unicast transmission 
+Broadcast transmission
+Multicast transmission 
+Private address
+Private addresses
+Network Address Translation
+Loopback addresses
+Loopback address
+Link-Local addresses
+Link-Local address
+Automatic Private IP Addressing
+DHCP clients
+DHCP client
+DHCP servers
+DHCP server
+Class A
+Class B
+Class C
+Class D
+Class E
+Classful addressing
+Network Segmentation
+Broadcast Domains
+Broadcast Domain
+IPv4 Network Subnetting
+logical topology diagram
+IP network planning
+Layer 2 VLAN pools
+Layer 2 VLAN pool
+DHCP address pools
+DHCP address pool
+static IP address
+IP addressing scheme
+VLSM Design
+VLSM Addressing Scheme
+IPv6 Addressing
+IPv6 Addressing scheme
+IPv6 addresses
+IPv6 address
+static global unicast
+link-local IPv6 network addresses
+link-local IPv6 network address
+IPv6 Multicast Address
+IPv6 Multicast Addresses
+Dual stack
+Network Address Translation 64 
+IPv6 Addressing Formats
+double colon 
+IPv6 Address Types
+anycast address 
+multicast address 
+IPv6 Prefix Length
+Global Unicast Address
+internet-routable address
+internet-routable addresses
+local link
+single link
+local addresses 
+global IPv6 address
+IPv6 GUA
+IPv6 internet
+IPv6 global unicast addresses 
+Global Routing Prefix
+ISP policies
+ISP policy
+global routing prefix
+Subnet ID
+Global Routing Prefix
+interface ID
+link-local address 
+Static GUA 
+IPv6 GUA
+Dynamic Addressing 
+RA Messages
+RA Message
+GUA addresses
+GUA address
+Internet Control Message Protocol version 6 
+Router Solicitation 
+Router Advertisement 
+Network prefix 
+prefix length
+Default gateway address
+DNS addresses 
+DNS address
+domain name
+stateless DHCPv6 server
+stateless DHCPv6
+Stateful DHCPv6
+ICMPv6 RA messages
+IPv6 unicast address
+Duplicate Address Detection 
+ARP request
+Dynamic LLAs
+IPv6 LLA
+IPv6 GUAs
+IPv6 Multicast Addresses
+Well-Known multicast addresses
+Solicited node multicast addresses
+ipv6 unicast-routing
+all-nodes multicast address
+Ethernet multicast address
+Ethernet NIC
+Global Routing Prefix 
+subnet ID hextet 
+ICMP Message
+ICMP Messages
+Traceroute Testing
+ICMPv6 Messages
+Internet Control Message Protocol
+IP packets
+IP packet
+messaging protocol
+Host reachability
+Service Unreachable
+Time exceeded
+ICMP Echo Message
+IP network
+ICMP Echo Request
+Echo Reply
+Net unreachable
+Host unreachable
+Protocol unreachable
+Port unreachable
+Time to Live
+IPv6 Hop Limit 
+Neighbor Discovery Protocol 
+Router Solicitation 
+Router Advertisement
+Neighbor Solicitation 
+Neighbor Advertisement 
+RA messages
+RA message
+DNS address
+domain name
+Stateless Address Autoconfiguration
+link-local address
+link-local unicast address
+duplicate address detection
+NS message 
+MAC address 
+solicited node address
+Ethernet MAC address
+ICMP Echo Request
+local loopback address
+Test the Path
+round-trip time 
+Time Exceeded message
+Transport Layer
+transport layer protocol
+transport layer protocols
+application layer 
+network transmission
+Segmenting data 
+UDP protocols
+data segments 
+data segment
+User Datagram Protocol 
+transport protocol
+connection-oriented protocol 
+Establishes a Session 
+Ensures Reliable Delivery 
+Provides Same-Order Delivery 
+Supports Flow Control 
+data flow
+stateful protocol 
+TCP segment header
+TCP segment
+segment header 
+Source Port
+Destination Port
+Sequence Number
+Acknowledgment Number
+Header Length
+Control bit
+UDP Features
+UDP Header
+TCP header 
+UDP datagram 
+datagram header 
+no delay
+require little 
+not resent
+no session 
+resource availability
+live streaming video
+reply applications 
+Unidirectional communications 
+flow control
+error detection
+error recovery 
+UDP transport layer protocols 
+manage multiple
+source port number 
+IP packet
+source IP address
+source port number
+destination IP address 
+destination port number
+multiple processes
+multiple connections
+Well-known Ports
+Registered Ports
+well-known ports 
+well-known port number
+dynamic port 
+File Transfer Protocol 
+Secure Shell 
+Simple Mail Transfer Protocol 
+Domain Name Service 
+Dynamic Host Configuration Protocol 
+Trivial File Transfer Protocol 
+Hypertext Transfer Protocol 
+Post Office Protocol version 3 
+Internet Message Access Protocol 
+Simple Network Management Protocol 
+Hypertext Transfer Protocol Secure 
+major security threat
+FIN flag set
+TCP Three-Way Handshake 
+Three-Way Handshake
+Urgent pointer field significant
+Acknowledgment flag 
+Push function
+Reset the connection 
+timeout occurs
+Synchronize sequence numbers
+session termination
+flow of packets
+TCP segments
+Sequence numbers 
+TCP Reliability 
+Data Loss 
+selective acknowledgment 
+Window Size 
+Maximum Segment Size 
+maximum transmission unit
+overloaded router
+control congestion
+congestion handling mechanisms
+no network management traffic
+UDP Low Overhead 
+UDP Datagram 
+same pair of ports 
+Application Layer
+application layer protocols 
+presentation layer
+session layer 
+peer-to-peer network
+email protocols 
+transfer protocols 
+File Sharing Services
+IP Addressing Services
+TCP/IP application layer
+Compressing data 
+Encrypting data for transmission 
+decrypting data 
+initiate dialogs
+keep them active
+restart sessions 
+a long period of time
+TCP/IP application protocols 
+Application layer protocols 
+communication session
+Domain Name System 
+Dynamic Host Configuration Protocol
+Hypertext Transfer Protocol
+exchanging text
+graphic images
+multimedia files
+P2P application 
+peer accesses 
+Direct Connect
+Hypertext Transfer Protocol 
+Hypertext Markup Language
+Uniform Resource Locator 
+HTML code 
+request/response protocol 
+message types 
+GET message 
+request HTML pages
+electronic messages
+Simple Mail Transfer Protocol 
+Post Office Protocol 
+SMTP spools messages
+TCP connection 
+POP server 
+IMAP server
+numeric IP addresses 
+Fully-qualified domain names 
+numeric network address
+DNS Message Format
+client queries 
+server responses
+error messages
+hierarchical system 
+name-to-IP mappings
+DNS Hierarchy
+DNS zone
+Dynamic Host Configuration Protocol
+dynamic addressing 
+static addressing
+DHCP Operation
+DHCP discover 
+DHCP acknowledgment 
+DHCPDISCOVER message
+data transfers 
+Server Message Block
+SMB messages
+terminate sessions
+long-term connection 
+Device Security
+Network Attacks
+Security Threats
+Information Theft
+Data Loss and manipulation
+Identity Theft
+Disruption of Service
+TCP/IP Protocol
+Security Policy
+logical access
+Physical Security
+cabling plant
+Environmental threats
+unconditioned power 
+poor cabling
+poor labeling
+malicious software
+Trojan Horses 
+Reconnaissance Attacks
+malicious code attacks
+Access attacks 
+Denial of service 
+authentication services
+FTP services
+Password attacks 
+brute force
+packet sniffers
+Trust exploitation 
+Port redirection
+Man-in-the middle 
+Denial of service 
+Denial of Service Attacks
+DoS attacks
+command and control 
+Defense-in-Depth Approach
+ASA Firewall 
+AAA Server 
+Keep Backups
+security policy
+antivirus software
+Authentication, authorization, and accounting 
+access control 
+Network firewalls 
+demilitarized zone 
+Packet filtering 
+MAC addresses
+Application filtering 
+URL filtering 
+Stateful packet inspection 
+denial of service 
+Device Security
+service password-encryption 
+security passwords min-length
+login block-for # attempts # within # 
+ip-domain name
+crypto key generate rsa general-keys modulus
+login local 
+SSH sessions
+transport input [ssh | telnet] 
+show ip ports all 
+show control-plane host open-ports
+SSH Access
+Secure Remote Access
+Configure Switch Ports
+Initial Settings
+directly-connected networks
+power-on self-test 
+low-level CPU initialization
+Switch Boot Sequence
+boot system Command
+boot system
+System LED 
+Redundant Power Supply LED 
+Port Status LED 
+Port Duplex LED 
+Port Speed LED 
+Power over Ethernet LED 
+System LED 
+Switch Management Access
+switch virtual interface 
+VLAN 99 
+sdm prefer dual-ipv4-and-ipv6 default 
+configure terminal
+interface vlan 99
+ip address 172.17.99.11 255.255.255.0
+ipv6 address 2001:db8:acad:99::1/64
+copy running-config startup-config
+router advertisement 
+Duplex Communication
+duplex full
+speed 100
+automatic medium-dependent interface crossover 
+mdix auto 
+show controllers ethernet-controller 
+Switch Verification Commands
+show interfaces [interface-id]
+show startup-config
+show running-config
+show flash
+show version
+show history
+show ipv6 interface [interface-id]
+show mac-address-table
+Switch Port Configuration
+VLAN 99
+data link protocol 
+Input Errors
+Output Errors
+Late Collisions
+Ethernet packet 
+Ethernet collision
+Runt Frames 
+CRC errors 
+Secure Remote Access
+Telnet Operation
+SSH Operation
+RSA key pair 
+SSH version 2 
+command line interface 
+Dual Stack Topology
+High-Speed WAN Interface Card 
+ipv6 address ipv6-address/prefix 
+IPv4 Loopback
+Interface Verification Commands
+show ip interface brief 
+show ipv6 interface brief 
+IPv6 Link Local 
+Multicast Addresses
+/32 mask for IPv4
+/128 mask for IPv6
+terminal length 
+filtering expression
+Up Arrow key
+Cable equipment 
+plaintext transmission 
+login authentication 
+VTY lines
+Layer 2 switches 
+Frame Forwarding
+Switching Domains
+broadcast domain
+collision domain 
+Frame Forwarding
+entering the interface
+exiting the interface
+MAC address table
+Content Addressable Memory 
+application-specific-integrated circuits 
+Store-and-forward switching 
+Cut-through switching 
+Error Checking 
+Frame Check Sequence 
+CRC errors
+Cut-Through Switching
+Switching Domains
+Collision Domains
+Broadcast Domains
+full duplex 
+MAC broadcast domain
+broadcast traffic
+MAC address table 
+Fast Port Speeds
+Fast Internal Switching
+Large Frame Buffers
+High Port Density
+switch forwarding
+eliminate collision domains
+content accessible memory 
+store-and-forward switching
+cut-through switching
+automatic buffering
+fragment free switching
+VLAN Configuration
+VLAN Trunks
+Dynamic Trunking Protocol
+logical connections
+Smaller broadcast domains
+Improved Security
+Improved IT Efficiency
+Reduced Cost
+Performanc
+Simpler Management
+default VLAN
+default Native VLAN
+default Management VLAN
+user-generated traffic 
+802.1Q trunk link
+native VLAN
+SSH/Telnet VTY traffic
+Layer 2 switch
+Assured bandwidth
+High QoS priority
+avoid congestion
+Delay less 
+802.1Q trunking
+IEEE 802.1Q header 
+Canonical Format Identifier 
+VLAN ID 
+User Priority
+Tag Protocol ID 
+legacy use
+Voice VLAN Tagging
+802.1Q Tagging
+vlan vlan-id
+name vlan-name
+interface interface-id
+switchport mode access
+switchport access vlan vlan-id
+VLAN Port Assignment 
+Data VLANs
+Voice VLAN 
+show vlan [brief | id vlan-id | name vlan-name | summary]
+Delete VLANs
+no vlan vlan-id
+VLAN Configuration
+VLAN Trunks
+switchport mode trunk
+switchport trunk native vlan vlan-id
+switchport trunk allowed vlan vlan-list
+Trunk Configuration
+trunk administratively
+trunk operationally 
+sh int fa0/1 switchport command
+access interface administratively
+access interface operationally 
+Dynamic Trunking Protocol
+Catalyst 2960 
+2950 switches
+dynamic auto
+dynamic desirable
+neighboring link 
+access link
+desirable mode
+trunk link
+trunking mode 
+Dynamic Desirable
+show dtp interface 
+physical connections
+separate logical network
+point-to-point link 
+VLAN tag fields 
+user priority
+Trunk negotiation 
+trunking or nontrunking
+VLAN Segmentation
+Canonical Format Identifier
