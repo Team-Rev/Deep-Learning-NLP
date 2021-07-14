@@ -14,6 +14,7 @@ import load_phrase
 import numpy as np
 
 
+
 custom_stop_words = []
 f = open('stopword.txt', 'r')
 while True:
@@ -22,6 +23,7 @@ while True:
     if not line: break
     custom_stop_words.append(line)
 f.close()
+
 text = []
 load_phrase = load_phrase.load_phrase()
 phrases = load_phrase.get_stopwords()
@@ -60,6 +62,9 @@ for i in range(len(root_dir)):
             chapter_text = chapter_text.replace(phrase, re.sub(' +', '-', phrase))
         text.append(str(chapter_text))
 
+
+
+# 토큰화 추출
 for i, chapter in enumerate(text):
     tokenized = word_tokenize(chapter)
     tokenized = list(dict.fromkeys(tokenized))
@@ -70,33 +75,7 @@ for i, chapter in enumerate(text):
             f.write(token+'\n')
 
 
-
-
-
-
-
-
-
-
-# for chapter in text:
-#     chapters = sum(chapter, [])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# data = data.str.replace("[^a-zA-Z0-9]", " ", regex=True)
-# data = data.apply(lambda x: ' '.join([w for w in x.split() if w not in stop_words]))
-
+# WordCloud
 # count = 1
 # for chapter in data:
 #     text = str(chapter)
